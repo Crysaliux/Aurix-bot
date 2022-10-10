@@ -518,14 +518,6 @@ async def roll(ctx, number_of_dice: int, number_of_sides: int):
     await ctx.send(', '.join(dice))
 
 @bot.group(invoke_without_command=True)
-async def scc(ctx):
-    await ctx.send('''
-    
-$inspiration
-$host
-''')
-
-@bot.group(invoke_without_command=True)
 async def inspiration(ctx):
     await ctx.send('https://steamcommunity.com/id/goldrenard/')
 
