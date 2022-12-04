@@ -980,4 +980,4 @@ async def item_delete(ctx, name):
     else:
         await ctx.send(f"You have successfully deleted item: {name}")
 
-bot.run('MTAxMjAyOTU1MjYzNTE2MjY3NA.GWartT.dvth2y6pMtHAEP-ysTTfdx-g4QRnfFXIYmSavw')
+bot.run('***************')
