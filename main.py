@@ -1124,4 +1124,4 @@ async def set_pun(ctx, pun):
     else:
         await ctx.send("Successfully created punishment for raiders")
 
-bot.run('MTAxMjAyOTU1MjYzNTE2MjY3NA.G22hhm.T-HfK60sL8JN_dqpTdXGiOfhUKjnhyiJonngVo')
+bot.run('TOKEN')
