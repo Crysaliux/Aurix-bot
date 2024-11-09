@@ -1,1 +1,1 @@
-# Aurix
+# Aurix is long discontinued.
