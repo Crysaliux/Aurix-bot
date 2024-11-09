@@ -1,6 +1,3 @@
-#This is a main part of Aurix bot.
-#All code is protected by creator rights, and can not be used without ones permission.
-
 import discord
 from discord.ext import commands
 import json
